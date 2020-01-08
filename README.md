@@ -17,5 +17,5 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
 Moreover, the course is packed with practical exercises which are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
 And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.
 ## Purpose
-- I created this repo to upload all my work during this course
+- Learning ML basics
 
