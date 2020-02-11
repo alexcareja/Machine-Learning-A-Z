@@ -4,7 +4,7 @@
 This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms and coding libraries in a simple way.
 We will walk you step-by-step into the World of Machine Learning. With every tutorial you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.
 This course is fun and exciting, but at the same time we dive deep into Machine Learning. It is structured the following way:
-- [x] Part 1 - Data Preprocessing
+- [ ] Part 1 - Data Preprocessing
 - [ ] Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random -Forest Regression
 - [ ] Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
 - [ ] Part 4 - Clustering: K-Means, Hierarchical Clustering
