@@ -18,5 +18,3 @@ Moreover, the course is packed with practical exercises which are based on real-
 And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.
 ## Purpose
 - Learning ML basics
-
-
